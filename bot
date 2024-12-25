@@ -1,0 +1,4 @@
+mkdir guffal-discord-bot
+cd guffal-discord-bot
+git init
+git remote add origin https://github.com/olhyz/guffal-discord-bot.git
